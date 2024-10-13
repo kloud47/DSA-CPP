@@ -1,0 +1,4 @@
+///interfaces are nothing but abstract classes in c++
+C++ has no inbuilt concept of abstract classes
+it is just way to describe the behaviour of a class
+without commiting to the implementation of the class
